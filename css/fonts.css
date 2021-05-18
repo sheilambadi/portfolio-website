@@ -2,3 +2,18 @@
   font-family: "Open Sans";
   src: url("../fonts/Open_Sans/OpenSans-Regular.ttf");
 }
+
+@font-face {
+  font-family: "Open Sans Bold";
+  src: url("../fonts/Open_Sans/OpenSans-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("../fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Zurich";
+  src: url("../fonts/zurich/ZURCHN.ttf");
+}

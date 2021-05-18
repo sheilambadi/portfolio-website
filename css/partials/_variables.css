@@ -1,0 +1,16 @@
+html,
+body {
+  margin: 0%;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+
+/* css variables*/
+:root {
+  --title-color: #6495ed;
+  --nav-links-color: #000000;
+  --gradient-color: linear-gradient(90deg, #4458dc 0%, #6495ed 100%);
+
+  --portfolio-font: "Open Sans Bold", cursive;
+}

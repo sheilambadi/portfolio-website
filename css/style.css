@@ -1,2 +1,41 @@
 /* import fonts from fonts.css */
 @import url("./fonts.css");
+
+/* import css variables */
+@import url(./partials/_variables.css);
+
+/* start navigation */
+
+.header-area .main-menu .navbar .navbar-brand {
+  padding: 0 2rem 0 5rem;
+  font-family: var(--portfolio-font);
+  font-weight: 900;
+  color: var(--title-color);
+}
+
+.header-area .main-menu .navbar {
+  padding: 0 10rem;
+}
+
+.header-area .main-menu .nav-item .nav-link {
+  font-family: var(--portfolio-font);
+  font-weight: 500;
+  padding: 1.7rem;
+  color: var(--nav-links-color);
+}
+
+.header-area .main-menu .navbar-nav .active a {
+  background: var(--gradient-color);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.header-area .main-menu .navbar-nav a:hover {
+  background: var(--gradient-color);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* end navigation */
