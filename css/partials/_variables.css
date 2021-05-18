@@ -8,9 +8,9 @@ body {
 
 /* css variables*/
 :root {
-  --title-color: #6495ed;
+  --title-color: #0659f5;
   --nav-links-color: #000000;
-  --gradient-color: linear-gradient(90deg, #4458dc 0%, #6495ed 100%);
+  --gradient-color: linear-gradient(90deg, #2e40b3 0%, #0659f5 100%);
 
   --portfolio-font: "Open Sans Bold", cursive;
 }

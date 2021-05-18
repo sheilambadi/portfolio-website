@@ -9,7 +9,7 @@
 .header-area .main-menu .navbar .navbar-brand {
   padding: 0 2rem 0 5rem;
   font-family: var(--portfolio-font);
-  font-weight: 900;
+  font-weight: bold;
   color: var(--title-color);
 }
 
